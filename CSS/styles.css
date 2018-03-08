@@ -8,7 +8,7 @@ header {
 }
 
 html {
-    color: #FFFFFF;
+    color:sienna;
     /* set text color to white */
     font-size: 18px;
     font-family: "arial", "sans-serif";
@@ -19,15 +19,17 @@ body {
     background-size: cover;
     background-position: center;
     height: 100vh;
+    
     /* use 100% of the view height (vh) so image doesn't repeat, but fills space instead) */
 }
 
 h1 {
-    font-family: fantasy
+    font-family: fantasy;
+    color:aquamarine
 }
 h2 {
     font-weight: 400;
-    font-family:fantasy
+    font-family:cursive;
 }
 
 .h1-title,
@@ -46,6 +48,7 @@ a {
 p {
     width: 75%;
     max-width: 500px;
+    color: greenyellow
 }
 
 img {
